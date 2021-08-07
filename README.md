@@ -34,24 +34,17 @@ You can also download metadata in .CSV format in your local system
 # Downloading the source code
 Clone the Repository (Recommended) If you have git installed, this is a recommended approach as you can quickly sync and stay up to date with the latest version. This is also a preferred way of downloading the code if you decide to contribute to the project.
 
-$ git clone https://github.com/aarkeshsharma/MetaData-App.git Download the code as a zip file
+$ git clone https://github.com/ishagoel1603/Meta_data-app-using-streamlit Download the code as a zip file
 
 # Build & Run
 Before we dive into building and running a fully featured Web App,ensure that you've read the following.
 
 This is a Web App running in Streamlit!
 
-U should have a VS code for smooth running
-
 Create a Virtual env with all the scripts activated
 
 Download pip install -r requirement.txt
 
 # Author
-aarkeshsharma
+Isha goel
 
-# License
-Copyright (c) 2021-present, Aarkesh Sharma aarkeshsharma@gmail.com
-
-# Your reviews & comments are valuable
-# Thank You!!
